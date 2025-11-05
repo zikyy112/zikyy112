@@ -14,8 +14,8 @@ What I like to do :
 
 ### Skills 📚
 #### Code / Frameworks
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt ="python" title="Python"/>&nbsp;&nbsp;
-<img src="./assets/images/C#-logo.png" alt ="C#" title="C#"/>&nbsp;&nbsp;
+- Python
+- C#
 - HTML
 - SQL
 - Linux
