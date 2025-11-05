@@ -13,7 +13,25 @@ What I like to do :
 
 
 ### Skills 📚
-#### Langages / Frameworks
-<img src="./assets/images/python-logo.png" alt ="python" title="Python"/>&nbsp;&nbsp;
+#### Code / Frameworks
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt ="python" title="Python"/>&nbsp;&nbsp;
 <img src="./assets/images/C#-logo.png" alt ="C#" title="C#"/>&nbsp;&nbsp;
+- HTML
+- SQL
+- Linux
+- C++
+
+### Tools
+- SolidWorks
+- Fusion 360
+- RPGMaker
+- Office pack
+
+### Langages
+- French (native)
+- English (fluent)
+- German (intermediate)
+- Korean (beginner)
+
+
 
